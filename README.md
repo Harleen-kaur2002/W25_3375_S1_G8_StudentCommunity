@@ -4,11 +4,9 @@ Description:Student Community, a community-driven application, enables students 
 
 Course: CSIS 3375 (001)
 
-Team Members:
-
-Harleen kaur(300389855)
-
-Gurpinder Singh(300389859)
+Team Members:\
+Harleen kaur(300389855)\
+Gurpinder Singh(300389859)\
 
 Email : gurpinders1511@gmail.com
 harleenkaurharleen17@gmail.com
