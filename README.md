@@ -18,6 +18,9 @@
 
 **GurpinderS_ProgressReport2.pdf**:This document outlines the work and progress made on the Student Community App project by Gurpinder from March 7 to March 21, 2025, detailing his involvement in requirement gathering, survey data analysis, persona development, and UI design, including the creation of the admin interface and dashboard layout.
 
+**W25_3375_S1_G8_StudentCommunity_FinalReport.pdf**:This report outlines the key stages in the development of the Student Community App. It outlines the initial app concept, background research, PACT analysis, value proposition, and the processes of requirements gathering and generation. User studies, persona creation, and design decisions based on user feedback are also included.
+Additionally, the report contains individual team member contributions, detailed work logs, Figma prototype screenshots, survey questions, user journey maps, and final insights drawn from evaluations.
+
 
 **Installation Instruction:**
 Please use the link below to access the prototype. Clicking on the link will direct you to the Figma prototype of the Student Community App. You can navigate through the design to explore the features and functionality we've implemented so far.
@@ -26,8 +29,8 @@ https://www.figma.com/proto/4A3kfHAu0uphjU7Vq9bS5q/W25_3375_S1_G8_StudentCommuni
 Course: CSIS 3375 (001)
 
 Team Members:\
-Harleen kaur(300389855)\
-Gurpinder Singh(300389859)
+Harleen kaur(300389855)(Team Lead)-(50%)\
+Gurpinder Singh(300389859)-(50%)
 
 Email : <br/> 
 gurpinders1511@gmail.com\
